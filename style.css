@@ -1,0 +1,132 @@
+.html,body{
+    margin: 0;
+    padding: 0;
+}
+.clearfix{
+    clear:both;
+}
+.container {
+    width: 960px;
+    margin: auto;
+}
+header{
+    background-color: #D3D3D3;
+    width: 900px;
+    height:  50px;
+    font-weight: bold;
+    text-align: center;
+    justify-self: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 50px;
+}
+section{
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: center;
+    width: 450px;
+    height: 400px;
+    float: left;
+}
+aside{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+.flexbox{
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    height: 400px;
+    grid-gap: 100px;
+    align-items: center;
+    justify-content: center;
+    margin-top: -50px;
+}
+.box1{
+    text-align: center;
+    display: block;
+    width: 25%;
+}
+.box1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+.box2{
+    text-align: center;
+    display: block;
+    width: 25%;
+}
+.box2 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+.box3{
+    text-align: center;
+    display: block;
+    width: 25%;
+}
+.box3 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+.box4{
+    text-align: center;
+    display: block;
+    width: 25%;
+}
+.box4 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+.flexbox2{
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    height: 400px;
+    grid-gap: 100px;
+    align-items: center;
+    justify-content: center;
+    margin-top: -80px;
+}
+.box5{
+    text-align: center;
+    display: block;
+    width: 33%;
+}
+.box5 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+.box6{
+    text-align: center;
+    display: block;
+    width: 25%;
+}
+.box6 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+.box7{
+    text-align: center;
+    display: block;
+    width: 25%;
+}
+.box7 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+footer{
+    width: 900px;
+    height:  50px;
+    margin: 0 auto;
+    text-align: center;
+}
